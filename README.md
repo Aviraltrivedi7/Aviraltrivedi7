@@ -1,10 +1,16 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=220&section=header&text=Aviral%20Trivedi&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Craftsman&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<!-- High-Tech Glowing Dark Theme Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg">
+  <img alt="Aviral Trivedi - Full Stack Developer & AI Engineer" src="./assets/header.svg" width="100%">
+</picture>
 
-<!-- Animated Typing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Aviral+Trivedi+%F0%9F%91%8B;Full+Stack+Web+%26+AI+Developer+%F0%9F%9A%80;Crafting+Modern+%26+Scalable+Solutions+%E2%9A%A1;Turning+Coffee+into+Impactful+Code+%E2%98%95;Open+Source+Enthusiast+%26+Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+<br/><br/>
+
+<!-- Animated Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Full+Stack+Web+%26+AI+Developer+%F0%9F%9A%80;Crafting+Modern+%26+Scalable+Solutions+%E2%9A%A1;Turning+Coffee+into+Impactful+Code+%E2%98%95;Open+Source+Enthusiast+%26+Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -60,8 +66,8 @@ Philosophy: "Code with precision, build with passion, learn continuously."
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/main/assets/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
 </div>
@@ -153,13 +159,13 @@ Philosophy: "Code with precision, build with passion, learn continuously."
 
 <br/>
 
-<!-- Footer Wave -->
+<!-- High-Tech Dark Theme Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=120&section=footer" width="100%" alt="Footer Wave" />
-</div>
-
-<div align="center">
-
-⭐ **Crafted with passion by [Aviral Trivedi](https://github.com/Aviraltrivedi7)** ⭐
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer.svg">
+    <img alt="Footer Banner" src="./assets/footer.svg" width="100%">
+  </picture>
+  <br/><br/>
+  <p>⭐ <strong>Crafted with passion by <a href="https://github.com/Aviraltrivedi7">Aviral Trivedi</a></strong> ⭐</p>
 </div>
