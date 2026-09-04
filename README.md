@@ -1,14 +1,21 @@
 <div align="center">
 
-#  Hi there, I'm Aviral Trivedi! 
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=220&section=header&text=Aviral%20Trivedi&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Craftsman&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+AI+%26+Web+Development+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%26+Building+Innovative+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- Animated Typing Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Aviral+Trivedi+%F0%9F%91%8B;Full+Stack+Web+%26+AI+Developer+%F0%9F%9A%80;Crafting+Modern+%26+Scalable+Solutions+%E2%9A%A1;Turning+Coffee+into+Impactful+Code+%E2%98%95;Open+Source+Enthusiast+%26+Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 
+<br/>
+
+<!-- Real-time Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aviraltrivedi7&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aviraltrivedi7?label=FOLLOWERS&style=for-the-badge&logo=github&color=33b5e5" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" alt="Focus" />
 </p>
 
-### 🌐 Connect with me:
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/aviral-trivedi-945871338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,15 +37,38 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Developer Focus:** Passionate Full Stack Developer & AI enthusiast focused on creating impactful web applications.
-- 🔭 **Current Work:** Developing smart AI web tools, attendance systems, and user-centric web platforms.
-- 🌱 **Learning & Exploring:** Advanced Cloud Architecture, System Design, and Scalable Backend Services.
-- 💬 **Ask Me About:** `C++`, `Python`, `JavaScript`, `Flask`, `Node.js`, and `Cloud Computing`.
-- ⚡ **Fun Fact:** When I'm not coding, I'm exploring new tech stacks and architecting creative solutions!
+```yaml
+Name: Aviral Trivedi
+Role: Full Stack Developer & AI Enthusiast
+Location: India 🇮🇳
+Passion: Architecting high-performance web applications and AI-driven solutions
+Currently: Developing intelligent tools and sharpening full-stack system designs
+Philosophy: "Code with precision, build with passion, learn continuously."
+```
+
+- 🚀 **Full-Stack Engineering:** Passionate about building resilient web apps, intuitive UIs, and robust backends.
+- 🤖 **AI & Machine Learning:** Creating smart systems, face recognition pipelines, and intelligent dashboards.
+- 💡 **Open Source & Collaboration:** Actively exploring, contributing, and exchanging innovative ideas.
+- 💬 **Ask Me About:** `C++`, `Python`, `JavaScript`, `Flask`, `Node.js`, `AWS`, and `System Architecture`.
+- ⚡ **Fun Fact:** I love transforming complex ideas into clean, elegant, user-friendly software!
 
 ---
 
-## 💻 Tech Stack
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aviraltrivedi7/Aviraltrivedi7/main/assets/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+</div>
+
+---
+
+## 💻 Tech Stack & Tooling
 
 ### 🚀 Programming Languages
 <p align="left">
@@ -68,7 +98,7 @@
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
 </p>
 
-### 🛠️ Servers, Big Data & DevOps
+### 🛠️ Big Data, DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white" alt="Apache Flink" />
@@ -80,7 +110,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Aviraltrivedi7&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Aviral's GitHub Stats" />
@@ -93,8 +123,43 @@
 
 ---
 
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Aviraltrivedi7/Face-Recognition-Attendance-System" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aviraltrivedi7&repo=Face-Recognition-Attendance-System&theme=tokyonight" alt="Face Recognition Attendance System" />
+  </a>
+  <a href="https://github.com/Aviraltrivedi7/aarogya-assistant" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aviraltrivedi7&repo=aarogya-assistant&theme=tokyonight" alt="Aarogya Assistant" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aviraltrivedi7/AgroAI-Dashboard-UI-Design" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aviraltrivedi7&repo=AgroAI-Dashboard-UI-Design&theme=tokyonight" alt="AgroAI Dashboard" />
+  </a>
+  <a href="https://github.com/Aviraltrivedi7/kanpur-metro-safar-guide" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Aviraltrivedi7&repo=kanpur-metro-safar-guide&theme=tokyonight" alt="Kanpur Metro Safar Guide" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Thought
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
+
 <div align="center">
 
-⭐ *From [Aviral Trivedi](https://github.com/Aviraltrivedi7) — Thanks for visiting my profile!* ⭐
+⭐ **Crafted with passion by [Aviral Trivedi](https://github.com/Aviraltrivedi7)** ⭐
 
 </div>
