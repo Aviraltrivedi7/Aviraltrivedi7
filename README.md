@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm Aviral Trivedi! 👋
+#  Hi there, I'm Aviral Trivedi! 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+AI+%26+Web+Development+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%26+Building+Innovative+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
 
